@@ -1,6 +1,7 @@
 # Project Management App (MERN + GraphQL)
 
 REF: https://www.youtube.com/watch?v=BcLNfwF04Kw
+
 GraphQL Documentation: https://graphql.org/code/#javascript
 
 These includes:
