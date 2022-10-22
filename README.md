@@ -19,3 +19,31 @@ BACKEND
  - react-router-dom
  - react-icons
 
+
+## Usage
+
+Setup the .env and add your MONGO_URI
+
+### Install dependencies
+
+```
+# Backend deps: on root folder
+npm install
+
+# Frontend deps
+cd client
+npm install
+```
+
+### Backend Run Server
+
+```
+npm run dev
+```
+
+### Frontend Run Client
+
+```
+cd client
+npm start
+```
